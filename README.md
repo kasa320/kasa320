@@ -23,7 +23,7 @@ Python · SQL · Unity / C#
 
 | | Project | Stack |
 |---|---|---|
-| 🎮 | [2D FPS Shooter](リンクを後で追加) — C + raylibで自作したシューティングゲーム | C, raylib |
+| 🎮 | [2D FPS Shooter](https://github.com/kasa320/raylib-shooter) — C + raylibで自作したシューティングゲーム | C, raylib |
 | 📊 | [LeetCode 75](リンクを後で追加) — アルゴリズム演習（進行中） | Python |
 
 ---
