@@ -25,6 +25,7 @@ Python · SQL · Unity / C#
 |---|---|---|
 | 🎮 | [2D FPS Shooter](https://github.com/kasa320/raylib-shooter) — C + raylibで自作したシューティングゲーム | C, raylib |
 | 📊 | [LeetCode 75](#) — アルゴリズム演習（進行中） | Python |
+| 🗺️ | [osm-shortest-path-go](https://github.com/kasa320/osm-shortest-path-go) — OpenStreetMapデータを使った最短経路探索 | Go |
 
 ---
 
